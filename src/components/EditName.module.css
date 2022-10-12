@@ -1,0 +1,44 @@
+.formcontainer {
+  position: absolute;
+  right: 4vw;
+  top: 50px;
+}
+
+.userDetails {
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  align-items: flex-end;
+}
+
+.userDetails .input {
+  height: 40px;
+  border-radius: 10px;
+}
+
+.userDetails label {
+  text-transform: lowercase;
+  font-size: 0.9em;
+}
+
+.userDetails .btn {
+  padding-inline: 2em;
+  background-color: hsl(var(--accent));
+  color: hsl(var(--bg));
+  text-decoration: none;
+  border-radius: var(--_radius);
+  box-shadow: 0.05em 0.1em 0.9em hsl(var(--accent) / 0.3),
+    0 0 0 -0.1em hsl(var(--bg)), 0 0 0 -0.2em hsl(var(--accent));
+  transition: box-shadow var(--_tspeed_fast) var(--_ttype_squish),
+    background-color var(--_tspeed_fast) var(--_ttype_squish);
+}
+
+.btnUser {
+  padding: 0.7em;
+}
+
+.btnUser:focus-visible {
+  box-shadow: 0 0 0 hsl(var(--accent) / 0.3), 0 0 0 0.2em hsl(var(--bg)),
+    0 0 0 0.4em hsl(var(--accent) / 0.7);
+}
