@@ -21,7 +21,7 @@ This is a solution build along project with Chris from his youtube channel Chann
 ### Links
 
 - Solution URL: [Github](https://github.com/iamenochlee/react-todo-app)
-- Live Site URL: [Vercel](hhttps://react-todo-l1497dr5f-iamenochlee.vercel.app/)
+- Live Site URL: [Vercel](https://react-todo-l1497dr5f-iamenochlee.vercel.app/)
 
 ## My process
 
