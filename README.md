@@ -10,13 +10,13 @@ This is a solution build along project with Chris from his youtube channel Chann
 
 #### Mobile Device
 
-![Light Theme](./preview/mobile-light.png)
-![Custom Theme](./preview/mobile-dark.png)
+![Light Theme](./preview/mobile.png)
+![Custom Theme](./preview/custom-mobile.png)
 
 #### Desktop
 
-![Light Theme](./preview/desktop-light.png)
-![Custom Theme](./preview/desktop-dark.png)
+![Light Theme](./preview/desktop.png)
+![Custom Theme](./preview/custom-desktop.png)
 
 ### Links
 

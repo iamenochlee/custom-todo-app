@@ -7,7 +7,7 @@ import EditForm from "./components/EditForm";
 import ThemeSwitcher from "./components/ThemeSwitcher";
 
 //custom hooks
-import useLocalStorage from "./Hooks/useLocalStorage";
+import useLocalStorage from "./components/Hooks/useLocalStorage";
 import { createRef } from "react";
 import EditName from "./components/EditName";
 
